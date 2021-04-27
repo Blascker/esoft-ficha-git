@@ -3,6 +3,7 @@ import javax.swing.*;
 public class HelloWorld extends JFrame{
     private JPanel panel1;
     private JLabel lblMensagem;
+    private JLabel lblMensagem2;
 
     public HelloWorld(String title){
         super(title);
